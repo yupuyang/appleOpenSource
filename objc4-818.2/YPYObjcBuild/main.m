@@ -1,6 +1,6 @@
 //
 //  main.m
-//  KCObjcBuild
+//  YPYObjcBuild
 //
 
 #import <Foundation/Foundation.h>
